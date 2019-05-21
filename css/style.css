@@ -60,9 +60,9 @@ body {
   width: 180px;
   border-radius: 50%;
   border: 15px solid #a5a7aa; }
-  @media (max-width: 56.25em) {
+/*   @media (max-width: 56.25em) {
     .logo {
-      border: red; } }
+      border: red; } } */
 
 .title {
   font-size: 2.2rem;
