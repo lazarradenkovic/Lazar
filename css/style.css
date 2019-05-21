@@ -57,7 +57,7 @@ body {
 
 .logo {
   height: 180px;
-  width: 180px;
+  width:auto;
   border-radius: 50%;
   border: 6px solid #a5a7aa; }
 /*   @media (max-width: 56.25em) {
